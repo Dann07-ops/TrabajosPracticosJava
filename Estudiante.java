@@ -3,6 +3,7 @@ package trabajopractico3;
 
 
 public class Estudiante {
+    /**
     private String nombre;
     private String apellido;
     private String curso;
@@ -30,7 +31,7 @@ public class Estudiante {
         calificacion -= puntos;
         System.out.println("Calificación reducida a: " + calificacion);
     
-    }
+    }**/
     
     
 
